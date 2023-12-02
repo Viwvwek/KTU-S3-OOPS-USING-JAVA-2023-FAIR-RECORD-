@@ -4,7 +4,7 @@
  *  such that each one of the classes extends the class Shape. 
  *  Each one of the classes contains only the method numberOfSides( ) 
  *  that shows the number of sides in the given geometrical structures.
- * 	Concept used:  (Exercise to understand polymorphism).
+ * 	Concept used: (Exercise to understand polymorphism).
 */
 
 
